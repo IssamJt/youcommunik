@@ -1,0 +1,303 @@
+@media screen and (min-width: 1024px) and (max-width:1439px) {
+    .logo img{
+        width: 70%;
+    }
+
+    header .logo{
+        margin: 8% 0 0 3%;
+    }
+    nav{
+        width: 80%;
+        margin: 4% 0 0 0;
+    }
+
+    nav img{
+        width: 80%;
+        display: flex;
+    
+        
+    }
+
+    nav ul .navimg5{
+        width: 52%;
+    }
+
+    footer .pack{
+        width: 50%;
+        margin-left: -10%;
+    }
+
+    footer .outils{
+        width: 50%;
+        margin-left: -10%;
+    }
+
+    footer .sc{
+        width: 50%;
+        margin-left: -10%;
+    }
+
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    header{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    header .logo{
+        display: flex;
+        justify-content: center;
+    }
+
+    nav ul{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav ul img{
+        display: none;
+    }
+
+    nav{
+        margin-left: 33%;
+    }
+
+    nav ul .navimg5{
+        width: 80%;
+    }
+
+    .E{
+        height: 60vh;
+    }
+
+    .E p{
+        font-size:120%;
+    }
+
+    #eclosion {
+        width: 60%;
+    }
+
+    #evolution {
+        width: 60%;
+    }
+
+    #envole {
+        width: 60%;
+    }
+
+    .section3 img {
+        width: 50%;
+        margin-top: 25%;
+    }
+
+    .section5 img {
+        width: 55%;
+    }
+
+    .section5div2 img{
+        width: 37%;
+
+    }
+
+    .section7 img {
+        width: 50%;
+        margin-top: 25%;
+    }
+
+    footer{
+        height: 50vh;
+    }
+
+    footer .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+    }
+
+    footer .pack {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    footer .outils{
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    footer .sc {
+        width: 90%;
+        margin-left: 5%;
+
+    }
+
+    footer .packsimg {
+        margin: 0 0 0 35%;
+    }
+
+    footer .outilsimg {
+        margin: 0 0 0 35%;
+    }
+
+    footer .scimg {
+        margin: 0 0 0 40%;
+    }
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px){   
+    body{
+        margin: 0;
+        width: 100%;
+    }
+
+    header{
+        display: flex;
+        flex-direction: column;
+        height: 90vh;
+        justify-content: center;
+    }
+
+    nav{
+        width: 100%;
+        margin: 0;
+    }
+
+    nav ul{
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav ul div{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    nav ul li{
+        margin-right:30% ;
+        margin-top: 8%;
+    }
+
+    nav img{
+        width: 20%;
+    }
+
+    nav ul .navimg5{
+        width: 20%;
+    }
+
+    .section1{
+        height: 70vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .section1 .section1img{
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .section1 .section1txt {
+        width: 100%;
+        font-size: 100%;
+        text-align: center;
+        margin-bottom: 30%;
+    }
+
+    .E{
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #eclosion{
+        width: 100%;
+    }
+
+    #envole{
+        width: 100%;
+    }
+
+    #evolution{
+        width: 100%;
+    }
+
+    .Etxt{
+        width: 100%;
+        text-align: center;
+    }
+
+    .Etxt h1 {
+        text-align: center;
+        background-color: #334d5c;
+        width: 100%;
+        margin-top: 8%;
+        padding: 1% 2%;
+        color: white;
+    }
+
+    .section3 img {
+        width: 70%;
+    }
+
+    .section5 img {
+        width: 70%;
+    }
+
+    .section5 .section5div2 {
+        width: 30%;
+    }
+
+    .section7 img {
+        width: 70%;
+    }
+
+    footer{
+        height: 50vh;
+    }
+
+    footer .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+    }
+
+    footer .pack {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    footer .outils{
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    footer .sc {
+        width: 90%;
+        margin-left: 5%;
+
+    }
+
+    footer .packsimg {
+        margin: 0 0 0 35%;
+    }
+
+    footer .outilsimg {
+        margin: 0 0 0 35%;
+    }
+
+    footer .scimg {
+        margin: 0 0 0 40%;
+    }
+}
